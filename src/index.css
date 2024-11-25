@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply antialiased;
+  }
+}
+
+@layer components {
+  .text-gold-400 {
+    color: #FFD700;
+  }
+  
+  .text-gold-500 {
+    color: #FFC000;
+  }
+}
