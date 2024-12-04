@@ -20,10 +20,7 @@ function App() {
 
       <footer className="bg-black text-white py-6 text-center">
         <p>
-          © 2024 Luxury Travel Website. All rights reserved.{' '}
-          <a href="https://www.dseom.co.uk" target="_blank">
-            By DSEOM
-          </a>
+          © 2024 Luxury Travel Website. All rights reserved. By Ahmed Diaa
         </p>
       </footer>
     </div>
