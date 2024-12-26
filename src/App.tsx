@@ -20,7 +20,7 @@ function App() {
 
       <footer className="bg-black text-white py-6 text-center">
         <p>
-          © 2024 Luxury Travel Website. All rights reserved. By Ahmed Diaa
+          © 2024 Luxury Travel Website. All rights reserved. By DSEOM
         </p>
       </footer>
     </div>
